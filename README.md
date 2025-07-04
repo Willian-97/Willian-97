@@ -1,11 +1,12 @@
 ## Bem-vindo(a) ao perfil do Willian-97 😁
+### Sou estudante de programação e atualmente estou aprendendo HTML, CSS, JavaScript, TypeScript e ReactJs. Estou em trasição de carreira e busco oportunidades para aplicar meus conhecimentos e crescer na área de desenvolvimento web.
 
- <div>
+ <!-- <div>
    <a href="https://github.com/Willian-97">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willian-97&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-97&layout=compact&langs_count=6&theme=tokyonight"/>
 
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
