@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Willian-97 😁
 ### Sou estudante de programação e atualmente tenho conhecimento em HTML, CSS, JavaScript, TypeScript e ReactJs. Estou em trasição de carreira e busco oportunidades para aplicar meus conhecimentos e crescer na área de desenvolvimento web.
-### Também possuo conhecimentos baiscos em Python, o que me permite desenvolver scripts e automações para facilitar tarefas do dia a dia.
+### Também possuo conhecimentos basicos em Python, o que me permite desenvolver scripts e automações para facilitar tarefas do dia a dia.
 
  <!-- <div>
    <a href="https://github.com/Willian-97">
