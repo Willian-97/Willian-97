@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Willian-97 😁
-### Sou estudante de programação e atualmente tenho conhecimento em HTML, CSS, JavaScript, TypeScript e ReactJs. Estou em trasição de carreira e busco oportunidades para aplicar meus conhecimentos e crescer na área de desenvolvimento web.
-### Também possuo conhecimentos basicos em Python, o que me permite desenvolver scripts e automações para facilitar tarefas do dia a dia.
+### Sou desenvolvedor Back End Python com o Framework Django e FastApi, tenho conhecimento em HTML, CSS, JavaScript, e ReactJs. Estou em trasição de carreira e busco oportunidades para aplicar meus conhecimentos e crescer na área de desenvolvimento web.
+### Também possuo conhecimentos em Python para fazer integraçãoes com IA.
 
  <!-- <div>
    <a href="https://github.com/Willian-97">
@@ -9,11 +9,11 @@
 
 </div> -->
 <div style="display: inline_block"><br>
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-<!--   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
  
  <br>
